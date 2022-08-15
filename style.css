@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+ .sussy-propet{
+    width: 1300px ;
+    background-color: cornsilk;
+    margin: auto;
+    padding: 50px;
+    
+
+}
+.paper-header{
+    height: 250px;
+    background: url(img/paper-head.PNG) center / cover no-repeat;
+}
+.paper-sussyheader{
+    height: 120px;
+    background: url(img/paper-sussy-head.PNG) center / cover no-repeat;
+}
+.sussy-title{
+    font-family: 'Berkshire Swash', cursive; 
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 0px 10px 10px black;
+}
+.sussy-text{
+    font-family: 'Henny Penny', cursive;
+    font-size: 20px;
+}
+.ABOBUS{
+    width: 200px;
+float: right;
+margin-left: 20px;
+margin-bottom: 20px;
+}
+.totally-not-a-sussy-text{
+    text-align: center;
+    width: 30%;
+    margin: 1%;
+    float: left;
+}
+.paper-content{
+    overflow: hidden;
+}
